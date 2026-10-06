@@ -1,8 +1,8 @@
 # 👋 Hi, I’m TonyPhan (Phan Trọng Thoại)
 
-### 💻 Information Technology Graduate | Applied AI & Intelligent Systems
+### IT graduate exploring software, machine learning, and intelligent systems.
 
-I am an Information Technology graduate with experience in software development, AI system building, and research-oriented projects.
+I like building practical projects, understanding how things work under the hood, and learning from the parts that do not work as expected.
 
 My current focus is on strengthening my foundations in **Machine Learning, Deep Learning, mathematics, algorithms, and research methodology** while exploring areas such as **Computer Vision, Information Retrieval, Multimodal Systems, and AI-assisted Software**.
 
